@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">MovieDatabaseApp</string>
+    <string name="hello">HELLO</string>
+
+    <string-array name="names">
+        <item>Иван</item>
+        <item>Марья</item>
+        <item>Петр</item>
+        <item>Антон</item>
+        <item>Даша</item>
+        <item>Борис</item>
+        <item>Костя</item>
+        <item>Игорь</item>
+        <item>Анна</item>
+        <item>Денис</item>
+        <item>Вадим</item>
+        <item>Ольга</item>
+        <item>Сергей</item>
+    </string-array>
+    <string-array name="images">
+
+        <item>https://image.tmdb.org/t/p/w500/kqjL17yufvn9OVLyXYpvtyrFfak.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500/tbhdm8UJAb4ViCTsulYFL3lxMCd.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500//1esSytxJBQ9KxIpuU2W1oFFwXHZ.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500/837yyS9Xkb1NlnbWsbKYrPtWvxt.jpg</item>
+        <item>https://img5.goodfon.com/original/1366x768/e/b4/fentezi-art-art-drakon-past-krylia-moshch-liudi-skaly-nebo.jpg</item>
+        <item>https://img4.goodfon.com/original/1366x768/2/c9/blade-soul-devushka-zakat-voda.jpg?d=1</item>
+    </string-array>
+
+    <string name="add_record">Добавить запись</string>
+    <string name="delete_record">Удалить запись</string>
+    <string name="box">Box</string>
+    <string name="message_text">message</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="maybe">Maybe</string>
+    <string name="dialog_1">Dilog</string>
+    <string name="dialog">Dialog</string>
+    <string name="format_long">Long</string>
+    <string name="format_short">Short</string>
+    <string name="get_time">Get time</string>
+    <string name="observer">Observer</string>
+
+    <string name="movie_db_host">https://api.themoviedb.org/3/</string>
+    <string name="movie_db_api_key">de965e15417ebc808f2ad91a2608c5ac</string>
+</resources>
